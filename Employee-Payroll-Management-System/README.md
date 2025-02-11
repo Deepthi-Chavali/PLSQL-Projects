@@ -23,10 +23,3 @@ Technologies Used:
 	Triggers, Procedures, Functions
 
 	SQL Optimization, Exception Handling
-
-Repository Structure:
-	/Employee-Payroll-Management-System
-    |-- payroll_schema.sql
-    |-- payroll_procedures.sql
-    |-- triggers.sql
-    |-- README.md
